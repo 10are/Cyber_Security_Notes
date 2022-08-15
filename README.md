@@ -1,3 +1,3 @@
 # Siber-G-venlik-Notlar-
 
-- [Linux Kullanımı. ](./Linux)
+- [Linux Kullanımı. ](./Linux_KALI)
