@@ -1,3 +1,3 @@
-# Cyber_security_Notlar
+# Cyber_security_Notes
 
 - [Linux Kullanımı. ](./Linux_KALI)
