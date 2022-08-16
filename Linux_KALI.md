@@ -52,11 +52,11 @@ Terminali ilk açtığımız zaman, giriş yapmış olduğunuz kullanıcının h
 - ### Man & -Help
 Bir komutun nasıl kullanılacağını ve hakkında daha fazla bilgi edinmek için man komutu kullanılır. Örneğin, ` man touch ` touch komutunun manuel sayfalarını gösterir. Bir komutu yazıp arkasına “–help” eklersek, yine manual çıktısı ile aynı sonuca ulaşırız.
 
--### Cp
+- ### Cp
 
  ` cp ` komutu, komut satırı üzerinden kopyalama yapmak için kullanılır. İki argüman alır; ilki kopyalanacak dosyanın konumu, ikincisi kopyalanacak yerdir.
 
--### Mv
+- ### Mv
 ` mv ` komutu, dosyaları komut satırı yoluyla taşımak için kullanılır. Bir dosyayı yeniden adlandırmak için mv komutunu da kullanabiliriz. Örneğin az önce kopyaladığımız “copytest.txt” d0syasının ismini “newcopytest.txt” olarak değiştirmek istiyoruz. “mv copytest.txt newcopytest.txt” komutu ile bu işlemi gerçekleştirebiliriz.
 
 - ### Nano & Vi
